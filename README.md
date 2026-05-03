@@ -102,7 +102,7 @@ python dmrid_hungary_download.py --output /path/to/my_contacts.csv
 python dmrid_hungary_download.py --keep-download
 ```
 
-### Options
+### Kapcsolók
 
 | Kapcsoló | Alapértelmezés | Leírás |
 |---|---|---|
@@ -127,6 +127,14 @@ Ha nem szeretnéd minden alkalommal lefuttatni a scriptet, az elkészített magy
 **https://github.com/zolee1988/radtel-rt4d-nevjegyzek/blob/main/user_rt4d_hungary.csv**
 
 Ez a fájl ugyanazzal a módszerrel készült, mint amit a script használ, és teljesen kompatibilis az RT‑4D CPS import funkciójával.
+
+---
+
+## Példa a rádión megjelenő névjegyre
+
+Az alábbi képen látható, hogyan jelenik meg egy bejegyzés a Radtel RT‑4D kijelzőjén a script által generált formátumban:
+
+![Példa megjelenés](https://github.com/zolee1988/radtel-rt4d-nevjegyzek/blob/main/pelda.jpg)
 
 ---
 
