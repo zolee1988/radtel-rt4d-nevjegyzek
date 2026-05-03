@@ -119,3 +119,20 @@ python dmrid_hungary_download.py --keep-download
 4. **Write**-tal írd bele a rádióba
 
 ---
+
+## Előre legenerált adatbázis
+
+Ha nem szeretnéd minden alkalommal lefuttatni a scriptet, az elkészített magyar adatbázis közvetlenül is letölthető innen:
+
+**https://github.com/zolee1988/radtel-rt4d-nevjegyzek/blob/main/user_rt4d_hungary.csv**
+
+Ez a fájl ugyanazzal a módszerrel készült, mint amit a script használ, és teljesen kompatibilis az RT‑4D CPS import funkciójával.
+
+---
+
+## Ha szeretnéd támogatni a projektet és a munkámat, PayPal-on tudsz támogatást küldeni:
+
+[![Donate](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://www.paypal.me/zolikakiss)
+
+
+
