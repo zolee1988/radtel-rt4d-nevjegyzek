@@ -122,11 +122,17 @@ python dmrid_hungary_download.py --keep-download
 
 ## Előre legenerált adatbázis
 
-Ha nem szeretnéd minden alkalommal lefuttatni a scriptet, az elkészített magyar adatbázis közvetlenül is letölthető innen:
+Itt korábban volt egy letölthető, kész magyar adatbázis.
+**Most már nincs.**
 
-**https://github.com/zolee1988/radtel-rt4d-nevjegyzek/blob/main/user_rt4d_hungary.csv**
+Miért?
+Mert néhány rádióamatőr szerint az, hogy a RadioID *nyilvános* adatbázisából *nyilvános* adatot *nyilvános* formátumba konvertálok, valahogy… törvénysértés.
 
-Ez a fájl ugyanazzal a módszerrel készült, mint amit a script használ, és teljesen kompatibilis az RT‑4D CPS import funkciójával.
+Hogy ezt elkerüljem, a kész fájlt **töröltem**.
+A script viszont továbbra is itt van, és tökéletesen működik, így **mindenki saját maga** elkészítheti a saját, friss adatbázisát.
+
+Ha valaki mégis a régi linket keresné:
+**nem bug, feature.**
 
 ---
 
